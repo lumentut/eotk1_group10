@@ -10,8 +10,11 @@ This code is developed as part of the **TK1-W4-S5-R1 Engineering Optimization** 
 2. Explore the use of Docplex for building and solving mathematical models.
 3. Provide a framework for adapting the model to real-world scheduling problems.
 
-For more information or inquiries about this project, please contact:
+For more information or inquiries about this Group 10 project, please contact:
 
-- Yohanes Oktavianus Lumentut  
+- YOHANES OKTAVIANUS LUMENTUT
   Email: [yohanes.lumentut@binus.ac.id](mailto:yohanes.lumentut@binus.ac.id)  
   Alternate Email: [yohanes.lumentut@gmail.com](mailto:yohanes.lumentut@gmail.com)
+
+- MOCHAMAD DANNY SETIAWANSYAH  
+  Email: [mochamad.setiawansyah@binus.ac.id](mailto:mochamad.setiawansyah@binus.ac.id)
